@@ -1,7 +1,10 @@
 use_bpm 50 
 srand(Time.now.to_i) 
 
+# Evolution stage parameter, changes over time
 set :evolution_stage, 0
+
+# Controls the evolution stage, incrementing every 60 seconds
 live_loop :evolution_control do
   tick 
   set :evolution_stage, look
@@ -9,9 +12,11 @@ live_loop :evolution_control do
   sleep 60
 end
 
+# Deep drone layer, harmonically evolving with the stage
 live_loop :deep_drone do
   stage = get[:evolution_stage] 
   
+  # Selects a chord based on the current stage, using Aeolian mode
   base_chord = (chord_degree (stage % 4) + 1, :c2, :aeolian, 5)
   
   with_fx :reverb, room: 0.8, mix: 0.6 do
@@ -24,6 +29,7 @@ live_loop :deep_drone do
   sleep 16
 end
 
+# Evolving melodic and textural layer, changes scale and synth based on stage
 live_loop :evolving_texture do
   sync :deep_drone 
   stage = get[:evolution_stage]
@@ -39,6 +45,7 @@ live_loop :evolving_texture do
       pan: rrand(-0.8, 0.8),
       cutoff: rrand(70, 100 + (stage * 0.5))
     
+    # Adds echo effects for higher stages
     if stage > 2 && one_in(2) 
       with_fx :echo, phase: [0.5, 0.75, 1].choose, decay: rrand(4, 8), mix: rrand(0.2, 0.4) do
         play notes.look, 
@@ -52,6 +59,7 @@ live_loop :evolving_texture do
   sleep [0.5, 0.75, 1, 1.25].choose 
 end
 
+# Ambient nature sounds, evolving with the stage
 live_loop :nature_sounds do
   stage = get[:evolution_stage]
   
@@ -63,12 +71,10 @@ live_loop :nature_sounds do
       rate: rrand(0.8, 1.2), 
       pan: rrand(-1, 1)
   end
-  
-
-  
   sleep rrand(4, 10) 
 end
 
+# Subtle rhythmic layer, only appears at higher stages
 live_loop :subtle_rhythm do
   stage = get[:evolution_stage]
   if stage > 10 && one_in(4)

@@ -1,22 +1,22 @@
 # Sonic Pi: Neurosonic DMT Experience v2.3
-# بهینه‌سازی سطح صدا با حفظ کیفیت
+# Volume optimization while preserving quality
 
 use_bpm 60
 use_debug false
 
-# 1. تنظیمات کوک
+# 1. Tuning settings
 use_tuning :equal, 432
 
-# 2. پارامترهای پایه با افزایش دامنه
-global_binaural_base = 200
-theta_diff = 7.0
-random_seed = 1
+# 2. Main parameters with increased amplitude
+global_binaural_base = 200      # Base frequency for binaural beats
+theta_diff = 7.0                # Frequency difference for theta waves
+random_seed = 1                 # Seed for randomization
 
-# 3. افکت کلی با تقویت کنترل شده
-main_fx = with_fx :level, amp: 1.5 do # افزایش از 1.0 به 1.5
-  with_fx :reverb, mix: 0.3, room: 0.7 do # کاهش کمی ریورب برای وضوح بیشتر
+# 3. Main effects with controlled amplification
+main_fx = with_fx :level, amp: 1.5 do # Increased from 1.0 to 1.5
+  with_fx :reverb, mix: 0.3, room: 0.7 do # Slightly reduced reverb for more clarity
     
-    # A. بایناورال تتا (تقویت شده)
+    # A. Enhanced theta binaural beats
     in_thread do
       loop do
         play global_binaural_base - (theta_diff/2), amp: 0.15, pan: -0.8, release: 6 # +87.5%
@@ -25,7 +25,7 @@ main_fx = with_fx :level, amp: 1.5 do # افزایش از 1.0 به 1.5
       end
     end
     
-    # B. پد کرال تقویت شده
+    # B. Enhanced choral pad
     in_thread do
       use_synth :dark_ambience
       loop do
@@ -38,7 +38,7 @@ main_fx = with_fx :level, amp: 1.5 do # افزایش از 1.0 به 1.5
       end
     end
     
-    # C. آرپژ با دامنه بالاتر
+    # C. Arpeggio with higher amplitude
     in_thread do
       use_synth :pluck
       scale_notes = scale(:D4, :dorian, num_octaves: 2)
@@ -51,16 +51,16 @@ main_fx = with_fx :level, amp: 1.5 do # افزایش از 1.0 به 1.5
       end
     end
     
-    # D. ساب بیس قوی‌تر
+    # D. Stronger sub-bass
     in_thread do
       use_synth :fm
       loop do
-        play :D2, release: 1, amp: 0.4, cutoff: 70 # +33% + فیلتر
+        play :D2, release: 1, amp: 0.4, cutoff: 70 # +33% and filter
         sleep 1
       end
     end
     
-    # E. زمینه‌های عصبی تقویت شده
+    # E. Enhanced neural backgrounds
     in_thread do
       use_random_seed random_seed
       use_synth :hollow
@@ -72,7 +72,7 @@ main_fx = with_fx :level, amp: 1.5 do # افزایش از 1.0 به 1.5
       end
     end
     
-    # F. اکو با حجم بیشتر
+    # F. Echo with higher volume
     in_thread do
       loop do
         with_fx :echo, phase: 1.618 * 0.5, mix: 0.25 do
@@ -85,7 +85,7 @@ main_fx = with_fx :level, amp: 1.5 do # افزایش از 1.0 به 1.5
   end
 end
 
-# 4. فیدآوت با دامنه اولیه بالاتر
+# 4. Fade-out with higher initial amplitude
 in_thread do
   sleep 150
   30.times do |i|
@@ -93,7 +93,5 @@ in_thread do
     sleep 0.5
   end
 end
-
-
 
 sleep 180
