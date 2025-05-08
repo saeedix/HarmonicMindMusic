@@ -12,14 +12,7 @@ All music tracks in this project are algorithmically generated using the powerfu
 - **Open Source & Expandable:** Explore, remix, and contribute to a growing library of Sonic Pi scripts and generative music code.
 
 Subscribe to our channel, hit the bell, and transform your mindstate with every listen.
-#HarmonicMindMusic #NeuroMusic #FocusMusic #AlgorithmicHarmony
-
----
-
-## 📺 Video Demo
-
-[![Preview](https://user-images.githubusercontent.com/your-path/thumbnail.png)](https://youtu.be/VIDEO_ID)
-▶️ [Watch Full Video on YouTube](https://youtu.be/VIDEO_ID)
+#HarmonicMindMusic #HarmonicMusic #NeuroMusic #FocusMusic #AlgorithmicHarmony #MeditationMusic #AlgorithmicMusic
 
 ---
 
@@ -29,18 +22,17 @@ Below you'll find direct links to each audio track and its corresponding YouTube
 
 | Track Name                        | YouTube Video Link                |
 |------------------------------------|-----------------------------------|
-| White Noise v1                     | [Watch](https://youtu.be/VIDEO_ID) |
-| LSD Trip Simulation v1             | [Watch](https://youtu.be/VIDEO_ID) |
-| Neural Drones v1                   | [Watch](https://youtu.be/VIDEO_ID) |
-| Mind Reprogramming v1              | [Watch](https://youtu.be/VIDEO_ID) |
-| Magic Mushroom Simulation v1       | [Watch](https://youtu.be/VIDEO_ID) |
-| Dynamic Healing v1                 | [Watch](https://youtu.be/VIDEO_ID) |
-| DMT Experience v1                  | [Watch](https://youtu.be/VIDEO_ID) |
-| Deep Sleep v1                      | [Watch](https://youtu.be/VIDEO_ID) |
-| Death Simulation v1                | [Watch](https://youtu.be/VIDEO_ID) |
-| Ambient Forest Magic v1            | [Watch](https://youtu.be/VIDEO_ID) |
+| White Noise v1                     | [Watch](https://youtu.be/GKsHdHIcIDE?si=0AvJyt2bqVBLf8lt) |
+| LSD Trip Simulation v1             | [Watch](https://youtu.be/lAjzoKyXFfk?si=7Xs-OZfGMKY3kJ3b) |
+| Neural Drones v1                   | [Watch](https://youtu.be/0l7JEDXl1Ro?si=AQacFEKs6-1uyNAi) |
+| Mind Reprogramming v1              | [Watch](https://youtu.be/XGoGLBtI0Ao?si=Ah3yBHDBv2mqfhzX) |
+| Magic Mushroom Simulation v1       | [Watch](https://youtu.be/NZnJyAhPc2w?si=lOUviERIR2aFbHyO) |
+| Dynamic Healing v1                 | [Watch](https://youtu.be/h6jhB8S2BZs?si=egMlx4TWnN3GeKNh) |
+| DMT Experience v1                  | [Watch](https://youtu.be/ORpWoWSRSyk?si=qNB9dXG55TdsrOZ_) |
+| Deep Sleep v1                      | [Watch](https://youtu.be/xlGKg2ibcIY?si=tP3KRScei0d-1fwj) |
+| Death Simulation v1                | [Watch](https://youtu.be/VqgkbU526nQ?si=JfFA6RlN7IdkZhrM) |
+| Ambient Forest Magic v1            | [Watch](https://youtu.be/GTiB6X5bCqM?si=2glhi0IQCWDO4YeS) |
 
-> _Replace each `VIDEO_ID` with the actual YouTube video ID for each track, as found in your metadata._
 
 ---
 
