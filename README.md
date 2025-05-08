@@ -4,16 +4,6 @@ Welcome to **HarmonicMindMusic** — the official repository for the [Harmonic M
 
 All music tracks in this project are algorithmically generated using the powerful live coding environment **Sonic Pi**. Each composition is crafted with code, blending neuroscience, algorithmic composition, and sound design to create immersive soundscapes for focus, meditation, relaxation, and cognitive enhancement.
 
-## Why HarmonicMindMusic?
-
-- **Sonic Pi Powered:** Every track is written and performed using Sonic Pi, enabling real-time generative music and endless creative possibilities.
-- **Scientifically Crafted Audio:** Our soundscapes are inspired by neuroscience and designed to harmonize your mind, elevate your focus, and unlock your cognitive potential.
-- **Algorithmic Harmony:** We don't just make music — we engineer mental ecosystems.
-- **Open Source & Expandable:** Explore, remix, and contribute to a growing library of Sonic Pi scripts and generative music code.
-
-Subscribe to our channel, hit the bell, and transform your mindstate with every listen.
-#HarmonicMindMusic #HarmonicMusic #NeuroMusic #FocusMusic #AlgorithmicHarmony #MeditationMusic #AlgorithmicMusic
-
 ---
 
 ## 🎵 Track List & YouTube Links
