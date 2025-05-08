@@ -24,7 +24,7 @@ Below you'll find direct links to each audio track and its corresponding YouTube
 |------------------------------------|-----------------------------------|
 | White Noise v1                     | [Watch](https://youtu.be/GKsHdHIcIDE?si=0AvJyt2bqVBLf8lt) |
 | LSD Trip Simulation v1             | [Watch](https://youtu.be/lAjzoKyXFfk?si=7Xs-OZfGMKY3kJ3b) |
-| Neural Drones v1                   | [Watch](https://youtu.be/0l7JEDXl1Ro?si=AQacFEKs6-1uyNAi) |
+| Nuclear Extinction Simulator v1    | [Watch](https://youtu.be/0l7JEDXl1Ro?si=AQacFEKs6-1uyNAi) |
 | Mind Reprogramming v1              | [Watch](https://youtu.be/XGoGLBtI0Ao?si=Ah3yBHDBv2mqfhzX) |
 | Magic Mushroom Simulation v1       | [Watch](https://youtu.be/NZnJyAhPc2w?si=lOUviERIR2aFbHyO) |
 | Dynamic Healing v1                 | [Watch](https://youtu.be/h6jhB8S2BZs?si=egMlx4TWnN3GeKNh) |
