@@ -12,16 +12,17 @@ Below you'll find direct links to each audio track and its corresponding YouTube
 
 | Track Name                        | YouTube Video Link                |
 |------------------------------------|-----------------------------------|
-| White Noise v1                     | [Watch](https://youtu.be/GKsHdHIcIDE?si=0AvJyt2bqVBLf8lt) |
-| LSD Trip Simulation v1             | [Watch](https://youtu.be/lAjzoKyXFfk?si=7Xs-OZfGMKY3kJ3b) |
-| Nuclear Extinction Simulator v1    | [Watch](https://youtu.be/0l7JEDXl1Ro?si=AQacFEKs6-1uyNAi) |
-| Mind Reprogramming v1              | [Watch](https://youtu.be/XGoGLBtI0Ao?si=Ah3yBHDBv2mqfhzX) |
-| Magic Mushroom Simulation v1       | [Watch](https://youtu.be/NZnJyAhPc2w?si=lOUviERIR2aFbHyO) |
-| Dynamic Healing v1                 | [Watch](https://youtu.be/h6jhB8S2BZs?si=egMlx4TWnN3GeKNh) |
-| DMT Experience v1                  | [Watch](https://youtu.be/ORpWoWSRSyk?si=qNB9dXG55TdsrOZ_) |
-| Deep Sleep v1                      | [Watch](https://youtu.be/xlGKg2ibcIY?si=tP3KRScei0d-1fwj) |
-| Death Simulation v1                | [Watch](https://youtu.be/VqgkbU526nQ?si=JfFA6RlN7IdkZhrM) |
-| Ambient Forest Magic v1            | [Watch](https://youtu.be/GTiB6X5bCqM?si=2glhi0IQCWDO4YeS) |
+| White Noise                        | [Watch](https://youtu.be/GKsHdHIcIDE?si=0AvJyt2bqVBLf8lt) |
+| LSD Trip Simulation                | [Watch](https://youtu.be/lAjzoKyXFfk?si=7Xs-OZfGMKY3kJ3b) |
+| Nuclear Extinction Simulator       | [Watch](https://youtu.be/0l7JEDXl1Ro?si=AQacFEKs6-1uyNAi) |
+| Mind Reprogramming                 | [Watch](https://youtu.be/XGoGLBtI0Ao?si=Ah3yBHDBv2mqfhzX) |
+| Magic Mushroom Simulation          | [Watch](https://youtu.be/NZnJyAhPc2w?si=lOUviERIR2aFbHyO) |
+| Dynamic Healing                    | [Watch](https://youtu.be/h6jhB8S2BZs?si=egMlx4TWnN3GeKNh) |
+| DMT Experience                     | [Watch](https://youtu.be/ORpWoWSRSyk?si=qNB9dXG55TdsrOZ_) |
+| Deep Sleep                         | [Watch](https://youtu.be/xlGKg2ibcIY?si=tP3KRScei0d-1fwj) |
+| Death Simulation                   | [Watch](https://youtu.be/VqgkbU526nQ?si=JfFA6RlN7IdkZhrM) |
+| Ambient Forest Magic               | [Watch](https://youtu.be/GTiB6X5bCqM?si=2glhi0IQCWDO4YeS) |
+| Binaural Beats                     | [Watch](https://youtu.be/RoJIf84Na08?si=18uCFb64oyHvrSzC) |
 
 
 ---
