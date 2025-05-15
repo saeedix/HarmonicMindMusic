@@ -23,6 +23,7 @@ Below you'll find direct links to each audio track and its corresponding YouTube
 | Death Simulation                   | [Watch](https://youtu.be/VqgkbU526nQ?si=JfFA6RlN7IdkZhrM) |
 | Ambient Forest Magic               | [Watch](https://youtu.be/GTiB6X5bCqM?si=2glhi0IQCWDO4YeS) |
 | Binaural Beats                     | [Watch](https://youtu.be/RoJIf84Na08?si=18uCFb64oyHvrSzC) |
+| DNA Repair                         | [Watch](https://youtu.be/c7UIxul-Q4M?si=sVLOv8ziV-ELMY3K) |
 
 
 ---
