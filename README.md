@@ -26,8 +26,9 @@ Below you'll find direct links to each audio track and its corresponding YouTube
 | DNA Repair                         | [Watch](https://youtu.be/c7UIxul-Q4M?si=sVLOv8ziV-ELMY3K) |
 | Third Eye Activation               | [Watch](https://youtu.be/SKQpNMobq0U?si=d42-q6uFH3jvRtLu) |
 | Out Of Body Experience             | [Watch](https://youtu.be/LGdRPe8JCX4?si=iW8RwlETCQwD-ZMT) |
-| 423 Hz Frequency                   | [Watch](https://youtu.be/oDnIwRzS2X0?si=ykqD8UdK4pa5007d) |
+| 423 Hz Frequency                   | [Watch](https://youtu.be/oDnIwRzS2X0?si=VyuvKzocKUovB_n1) |
 | Golden Ratio                       | [Watch](https://youtu.be/Zxm5mF8zaWU?si=K0dilOdO3odfkUqp) |
+| 963 Hz Frequency                   | [Watch](https://youtu.be/1x8mJU6gJOk?si=X5K8Q09F5z72IeeH) |
 
 
 ---
