@@ -6,7 +6,7 @@ This README provides instructions for developing the Oneness Portal track.
 The Oneness Portal track is designed to evoke a sense of unity, spiritual awakening, and deep connection. It uses ambient pads, gentle drones, uplifting melodies, subtle percussion, and binaural beats to create an immersive meditative experience.
 
 ## Video
-[Watch The Oneness Portal Track Video](-)
+[Watch The Oneness Portal Track Video](https://youtu.be/J0viAOEQiBk?si=_RqUlZCBiNYj03O1)
 
 ## Development Steps
 1. **Ambient Pad**: Create a wide, atmospheric background using soft synths and extended chords.
