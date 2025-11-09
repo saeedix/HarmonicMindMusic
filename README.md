@@ -30,6 +30,7 @@ Below you'll find direct links to each audio track and its corresponding YouTube
 | Golden Ratio                       | [Watch](https://youtu.be/Zxm5mF8zaWU?si=K0dilOdO3odfkUqp) |
 | 963 Hz Frequency                   | [Watch](https://youtu.be/1x8mJU6gJOk?si=X5K8Q09F5z72IeeH) |
 | Oneness Portal                     | [Watch](https://youtu.be/J0viAOEQiBk?si=_RqUlZCBiNYj03O1) |
+| Deep Work                          | [Watch](https://youtu.be/8IkyiIPH5to?si=jf19jQFzagJwz9Y0) |
 
 
 ---
