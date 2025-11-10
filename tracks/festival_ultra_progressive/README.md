@@ -6,7 +6,7 @@ This README describes how the Festival Ultra Progressive track is structured and
 A high-energy progressive festival track at 126 BPM with three drops, bridges, fills, layered bass, chords, pads, and DJ-style transition FX. The arrangement uses a bar-synced clock and a dynamic energy curve to drive timbre and intensity across sections.
 
 ## Video
-[Watch the Festival Ultra Progressive Track Video](VIDEO_LINK)
+[Watch the Festival Ultra Progressive Track Video](https://youtu.be/g542kobGo9Q?si=YyDT9aXeVtgxeKgW)
 
 ## Development Steps
 1. **Tempo & Sync**: Set `use_bpm 126`. Use a `:clock` live_loop to cue `:bar` and increment `:bar_count` for deterministic sync.
