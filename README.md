@@ -31,6 +31,7 @@ Below you'll find direct links to each audio track and its corresponding YouTube
 | 963 Hz Frequency                   | [Watch](https://youtu.be/1x8mJU6gJOk?si=X5K8Q09F5z72IeeH) | [CODE](tracks/963hz_frequency) |
 | Oneness Portal                     | [Watch](https://youtu.be/J0viAOEQiBk?si=_RqUlZCBiNYj03O1) | [CODE](tracks/oneness_portal) |
 | Deep Work                          | [Watch](https://youtu.be/8IkyiIPH5to?si=jf19jQFzagJwz9Y0) | [CODE](tracks/deep_work) |
+| Festival Ultra Progressive         | [Watch](VIDEO_LINK_HERE) | [CODE](tracks/festival_ultra_progressive) |
 
 
 ---
