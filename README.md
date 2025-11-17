@@ -32,6 +32,7 @@ Below you'll find direct links to each audio track and its corresponding YouTube
 | Oneness Portal                     | [Watch](https://youtu.be/J0viAOEQiBk?si=_RqUlZCBiNYj03O1) | [CODE](tracks/oneness_portal) |
 | Deep Work                          | [Watch](https://youtu.be/8IkyiIPH5to?si=jf19jQFzagJwz9Y0) | [CODE](tracks/deep_work) |
 | Festival Ultra Progressive         | [Watch](https://youtu.be/g542kobGo9Q?si=YyDT9aXeVtgxeKgW) | [CODE](tracks/festival_ultra_progressive) |
+| ADHD PREDICTIVE FOCUS              | [Watch](https://youtu.be/bTexskyh5SQ?si=LtgxafgXeAJ_qT9P) | [CODE](tracks/adhd_focus) |
 
 
 ---
